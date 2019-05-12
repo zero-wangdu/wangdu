@@ -1,0 +1,9 @@
+https://www.897ut.com/xiazai/10943.html
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+https://www.897ut.com/xiazai/26724.html
+('Connection aborted.', OSError(0, 'Error'))
+
+https://www.897ut.com/xiazai/10882.html
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+

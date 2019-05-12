@@ -1,0 +1,15 @@
+https://www.897ut.com/xiazai/42132.html
+('Connection aborted.', OSError(0, 'Error'))
+
+https://www.ec352.com/xiazai/41356.html
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+https://www.ec352.com/xiazai/41039.html
+('Connection aborted.', OSError(0, 'Error'))
+
+https://www.ec352.com/xiazai/40265.html
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+https://www.ec352.com/xiazai/40155.html
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+

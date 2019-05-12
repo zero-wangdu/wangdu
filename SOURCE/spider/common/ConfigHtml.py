@@ -2,7 +2,6 @@ import requests
 from lxml import etree
 
 
-
 def get_content(url):
     try:
         headers = {'User-Agent':'Moziall/5.0'}
@@ -39,5 +38,6 @@ def get_right_name(name):
     name = name.replace('"','-')
     name = name.replace('?','-')
     name = name.replace('→','-')
+    name = name.replace('|','-')
 
     return name
