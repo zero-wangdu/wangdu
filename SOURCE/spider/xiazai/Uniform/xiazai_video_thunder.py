@@ -18,7 +18,8 @@ class shortVideoThunder(object):
         # self.baseUrl = 'www.ea235.com'
         # self.baseUrl = 'www.776ut.com'
         # self.baseUrl = 'www.897ut.com'
-        self.baseUrl = 'www.ec352.com'
+        # self.baseUrl = 'www.ec352.com'
+        self.baseUrl = 'www.876yt.com'
 
         ABS_PATH = os.path.dirname(sys.argv[0])
 
