@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0cf20c5-c409-4314-a63e-b803688351c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/wangdu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/wangdu.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/common/ConfigHtml.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/common/ConfigHtml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/shipin/short_video/shipin_short_video_thunder.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/shipin/short_video/shipin_short_video_thunder.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/shipin/short_video/shipin_short_video_thunder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/xiazai/Asia/000_asia_video_all.csv" beforeDir="false" afterPath="$PROJECT_DIR$/spider/xiazai/Asia/000_asia_video_all.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/xiazai/Uniform/000_xiazai_uniform_video_all.csv" beforeDir="false" afterPath="$PROJECT_DIR$/spider/xiazai/Uniform/000_xiazai_uniform_video_all.csv" afterDir="false" />
-    </list>
+    <list default="true" id="e0cf20c5-c409-4314-a63e-b803688351c7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,16 +12,14 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spider/xiazai/Uniform/000_xiazai_uniform_video_all.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1575" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider/xiazai/Asia/000_asia_video_all.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1325">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="175">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -74,39 +64,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SOURCE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOURCE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SOURCE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOURCE" type="462c0819:PsiDirectoryNode" />
-              <item name="old_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SOURCE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOURCE" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SOURCE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SOURCE" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="xiazai" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spider/xiazai/Uniform" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python_code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -193,16 +158,17 @@
       <workItem from="1557670106662" duration="6000" />
       <workItem from="1557670119492" duration="779000" />
       <workItem from="1557673574288" duration="5408000" />
+      <workItem from="1557754101108" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6193000" />
+    <option name="totallyTimeSpent" value="6225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,13 +199,7 @@
     <SUITE FILE_PATH="coverage/SOURCE$xiazai_video_thunder.coverage" NAME="xiazai_video_thunder Coverage Results" MODIFIED="1557683244891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/xiazai/Asia" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/lxml/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/lxml/__init__.py" />
     <entry file="file://$PROJECT_DIR$/spider/shipin/short_video/shipin_short_video_thunder_copy.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -253,9 +213,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/shipin/LOG/my_error_log.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/shipin/LOG/my_error_log.log" />
     <entry file="file://$PROJECT_DIR$/spider/xiazai/LOG/ziazai_asia_video_thunder.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -310,16 +268,14 @@
     <entry file="file://$PROJECT_DIR$/spider/xiazai/LOG/000_ziazai_uniform_video_thunder.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/spider/xiazai/Uniform/000_xiazai_uniform_video_all.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/spider/xiazai/Asia/000_asia_video_all.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1325">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="175">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/xiazai/Uniform/000_xiazai_uniform_video_all.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1575" />
       </provider>
     </entry>
   </component>
